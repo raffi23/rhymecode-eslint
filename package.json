@@ -1,7 +1,10 @@
 {
-  "name": "@rhymecode/eslint-config",
+  "name": "@raffi23/rhymecode-eslint-config",
   "version": "1.0.0",
   "type": "module",
+  "scripts": {
+    "test": "exit 0"
+  },
   "private": true,
   "exports": {
     "./base": "./base.js",
